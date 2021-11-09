@@ -1,7 +1,7 @@
 b=0
 c=0
-sayi=int(input("Bir tam sayı giriniz: "))
-for i in range(2,sayi+1):
+num=int(input("enter an integer: "))
+for i in range(2,num+1):
     for b in range(2,i):
         c=0
         if i%b == 0:
