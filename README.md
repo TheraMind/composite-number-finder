@@ -1,1 +1,1 @@
-# composite-number-finder
+# composite-number-finder in python. 
